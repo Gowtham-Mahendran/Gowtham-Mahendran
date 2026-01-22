@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey! Welcome to my GitHub
+---
 
-<!--
-**Gowtham-Mahendran/Gowtham-Mahendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Gowtham** — an Electrical Engineer interested in research and programming. I enjoy playing with Linux, mostly because it argues back and usually wins. If it works, I document it. If it breaks, I document it even more. You can find my notes on the site.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,docker,matlab,django&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex,vscode&perline=2" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <br><br>
+    <img alt="profile_updated" src="https://img.shields.io/github/last-commit/Gowtham-Mahendran/Gowtham-Mahendran?style=flat-square" />
+    <img alt="site" src="https://img.shields.io/badge/site-gowt.dev-informational?style=flat-square" />
+</p>
+
+
