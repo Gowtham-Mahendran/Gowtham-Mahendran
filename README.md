@@ -1,7 +1,7 @@
 👋 Hey! Welcome to my GitHub
 ---
 
-I'm **Gowtham** — an Electrical Engineer interested in research and programming. I enjoy playing with Linux, mostly because it argues back and usually wins. If it works, I document it. If it breaks, I document it even more. You can find my notes on the site.
+I'm **Gowtham** — an Electrical Engineer interested in research and programming. In meantime, I enjoy learning Linux. If it works, I document it. If it breaks, I document it even more. You can find my notes on the site.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,git,docker,matlab,django&perline=6" />
